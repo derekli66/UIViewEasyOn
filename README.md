@@ -4,7 +4,7 @@ The reason why to create this EasyOn category is make programmatic creation of s
 ## How to use
 There are two ways to use this category
 
-### Method 1
+#### Method 1
 ---
 Create adding subview methods in UIView+AddSubview.h and follow this format,
 
@@ -22,7 +22,7 @@ Create adding subview methods in UIView+AddSubview.h and follow this format,
 
 After adding subview methods are created, there is no need to implement those methods. The EasyOn category will create one for you. The reset of your works are focus on the view's property adjustment.
 
-### Method 2
+#### Method 2
 ---
 Add subviews with 'add' block
 
