@@ -2,7 +2,7 @@
 The reason why to create this EasyOn category is make programmatic creation of subviews more instinct and more readable. 
 
 ## How to use
-There are two ways to use this category
+There are two ways to use this category:
 
 #### Method 1
 ---
@@ -20,7 +20,7 @@ Create adding subview methods in UIView+AddSubview.h and follow this format,
 @end
 ```
 
-After adding subview methods are created, there is no need to implement those methods. The EasyOn category will create one for you. The reset of your works are focus on the view's property adjustment.
+After adding subview methods are created, there is no need to implement those methods. The EasyOn category will create one for you. The reset of your works are focus on the adjustments of the view's properties.
 
 #### Method 2
 ---
